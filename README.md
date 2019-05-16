@@ -1,1 +1,2 @@
-Welcome git hub
+Welcome git hu
+Day 2
