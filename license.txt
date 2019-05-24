@@ -174,4 +174,5 @@
       of your accepting any such warranty or additional liability.
 
 	END OF TERMS AND CONDITIONS
-"made changes in licence file"
+"made changes in licence file" 
+"made another changes"
